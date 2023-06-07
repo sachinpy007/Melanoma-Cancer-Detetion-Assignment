@@ -31,7 +31,7 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
 
 ## Acknowledgements
-- This analysis is part of the Exloratory Data Analysis which is one of the required learning module of Executive Post Graduate Programme in ML & AI from IIIT Bangalore.
+- This analysis is for CNN in Deep Learning which is one of the required learning module of Executive Post Graduate Programme in ML & AI from IIIT Bangalore.
 
 
 ## Contact
